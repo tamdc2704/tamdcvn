@@ -1,0 +1,4 @@
+baseURL = "/"
+languageCode = "vi-VN"
+title = "tamdc"
+theme = "hugo-tania"
